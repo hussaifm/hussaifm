@@ -1,4 +1,4 @@
-# I am Fatima Hussain 👋
+# I am Fatima 👋
 
 
 - 🔭 I’m currently working on kaggle projects
