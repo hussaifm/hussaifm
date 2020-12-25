@@ -8,5 +8,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: hussaifm@mail.uc.edu
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: 
+- ⚡ Look at my favorite analysis: https://github.com/hussaifm/biostat/blob/master/regression.md
 -->
