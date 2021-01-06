@@ -3,5 +3,5 @@ I am a master-level biostatistics student with working experience in biomedical 
 
 In my github website, I add my personal and coursework projects using R and SAS. I am planning to add more projects in the upcoming weeks. Stay tuned ;)
 
-- 📫 How to reach me: hussaifm@hotmail.com 
+- 📫 How to reach me: hussaifm@hotmail.com or http://www.linkedin.com/in/hussaifm
 
